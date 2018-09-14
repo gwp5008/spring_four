@@ -1,0 +1,10 @@
+#
+#Wed Sep 12 13:30:18 CDT 2018
+com.spring.four.dao.BookDAOImpl=org.springframework.stereotype.Component
+com.spring.four.model.Book=javax.persistence.Entity,javax.persistence.Table,javax.persistence.EntityListeners
+com.spring.four.repository.BookRepository=org.springframework.data.repository.Repository
+com.spring.four.dao.SubjectDAOImpl=org.springframework.stereotype.Component
+com.spring.four.repository.SubjectRepository=org.springframework.data.repository.Repository
+com.spring.four.model.Subject=javax.persistence.Entity,javax.persistence.Table,javax.persistence.EntityListeners
+com.spring.four.controller.SubjectController=org.springframework.stereotype.Component
+com.spring.four.controller.BookController=org.springframework.stereotype.Component

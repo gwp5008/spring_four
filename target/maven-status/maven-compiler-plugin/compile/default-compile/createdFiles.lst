@@ -1,0 +1,11 @@
+com\spring\four\dao\BookDAO.class
+com\spring\four\model\Subject.class
+com\spring\four\controller\BookController.class
+com\spring\four\dao\BookDAOImpl.class
+com\spring\four\repository\SubjectRepository.class
+META-INF\spring.components
+com\spring\four\repository\BookRepository.class
+com\spring\four\controller\SubjectController.class
+com\spring\four\dao\SubjectDAO.class
+com\spring\four\dao\SubjectDAOImpl.class
+com\spring\four\model\Book.class
